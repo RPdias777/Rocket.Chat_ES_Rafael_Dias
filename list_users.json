@@ -1,0 +1,73 @@
+{
+   "users":[
+      {
+         "_id":"Tb6gzsAfeMC57b4Qy",
+         "emails":[
+            {
+               "address":"rafael@rocket-chat.com",
+               "verified":false
+            }
+         ],
+         "status":"online",
+         "active":true,
+         "roles":[
+            "user",
+            "admin"
+         ],
+         "name":"Rafael Dias",
+         "lastLogin":"2022-02-14T05:33:55.637Z",
+         "username":"rafaeldias",
+         "nameInsensitive":"rafael dias"
+      },
+      {
+         "_id":"rocket.cat",
+         "name":"Rocket.Cat",
+         "username":"rocket.cat",
+         "status":"online",
+         "active":true,
+         "roles":[
+            "bot"
+         ],
+         "avatarETag":null,
+         "nameInsensitive":"rocket.cat"
+      },
+      {
+         "_id":"inYzBGtF776MgNh4Z",
+         "username":"support.latam",
+         "emails":[
+            {
+               "address":"support@rocket-chat",
+               "verified":false
+            }
+         ],
+         "status":"offline",
+         "active":true,
+         "roles":[
+            "user"
+         ],
+         "name":"Rafael Support",
+         "nameInsensitive":"rafael support"
+      },
+      {
+         "_id":"n35huxCp8yoRQr5vp",
+         "username":"ykduda",
+         "emails":[
+            {
+               "address":"duda@rocket-chat",
+               "verified":false
+            }
+         ],
+         "status":"offline",
+         "active":true,
+         "roles":[
+            "user"
+         ],
+         "name":"Eduarda",
+         "nameInsensitive":"eduarda"
+      }
+   ],
+   "count":4,
+   "offset":0,
+   "total":4,
+   "success":true
+}

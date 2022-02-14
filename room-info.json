@@ -1,0 +1,59 @@
+{
+   "room":{
+      "_id":"4qfRF4sNiRwT4rujT",
+      "fname":"Team-Support",
+      "customFields":{
+         
+      },
+      "description":"Support Stuff",
+      "broadcast":false,
+      "encrypted":false,
+      "name":"Team-Support",
+      "t":"c",
+      "msgs":3,
+      "usersCount":2,
+      "u":{
+         "_id":"Tb6gzsAfeMC57b4Qy",
+         "username":"rafaeldias"
+      },
+      "ts":"2022-02-14T05:41:46.091Z",
+      "ro":false,
+      "default":false,
+      "sysMes":true,
+      "_updatedAt":"2022-02-14T05:55:16.666Z",
+      "lastMessage":{
+         "_id":"3Xzh7KF8HYQ9fMkEr",
+         "rid":"4qfRF4sNiRwT4rujT",
+         "msg":"ola",
+         "ts":"2022-02-14T05:55:16.544Z",
+         "u":{
+            "_id":"Tb6gzsAfeMC57b4Qy",
+            "username":"rafaeldias",
+            "name":"Rafael Dias"
+         },
+         "_updatedAt":"2022-02-14T05:55:16.650Z",
+         "urls":[
+            
+         ],
+         "mentions":[
+            
+         ],
+         "channels":[
+            
+         ],
+         "md":[
+            {
+               "type":"PARAGRAPH",
+               "value":[
+                  {
+                     "type":"PLAIN_TEXT",
+                     "value":"ola"
+                  }
+               ]
+            }
+         ]
+      },
+      "lm":"2022-02-14T05:55:16.544Z"
+   },
+   "success":true
+}

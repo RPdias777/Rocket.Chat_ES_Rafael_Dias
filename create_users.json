@@ -1,0 +1,28 @@
+{
+   "user":{
+      "_id":"jjYunsiBZgmipt9mB",
+      "createdAt":"2022-02-14T06:26:09.252Z",
+      "username":"rdc",
+      "emails":[
+         {
+            "address":"rdc@rockechat",
+            "verified":false
+         }
+      ],
+      "type":"user",
+      "status":"offline",
+      "active":true,
+      "_updatedAt":"2022-02-14T06:26:09.565Z",
+      "__rooms":[
+         "GENERAL"
+      ],
+      "roles":[
+         "user"
+      ],
+      "name":"Rodrigo Cruz",
+      "settings":{
+         
+      }
+   },
+   "success":true
+}
